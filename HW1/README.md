@@ -4,8 +4,8 @@ Promlems are available here: `HW1.Problems.pdf`
 ### Solutions
 These codes got these scores in the tests
 
-* `Q1`  ->   <mark style="background-color:#b5e7a0">100 </mark>
-* `Q2`  ->  <mark style="background-color:#b5e7a0">100 </mark>
-* `Q3`  ->  <mark style="background-color:#b5e7a0">100 </mark>
-* `Q4`  ->  <mark style="background-color:#b5e7a0">100 </mark>
-* `Q5`  ->  <mark style="background-color:#e3eaa7">90 </mark>
+* `Q1`  ->   <span style="color:green">100 </span>
+* `Q2`  ->  <span style="color:green">100 </span>
+* `Q3`  ->  <span style="color:green">100 </span>
+* `Q4`  ->  <span style="color:green">100 </span>
+* `Q5`  ->  <span style="color:rgb(150, 200, 100)">90 </span>
